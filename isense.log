@@ -1,0 +1,27 @@
+[00000.009] InterSense Library ver. 4.2381 64-bit
+[00000.010] Copyright 1998-2012 InterSense, LLC
+[00000.010] http://www.intersense.com
+[00000.011] Tel: 781-541-6330
+[00000.012]
+[00000.012] Thu Mar 23 10:30:12 2023
+[00000.012]
+[00000.012] Looking for InterSense tracking device number 1. Please wait 
+[00000.013]
+[00000.013] File isports.ini is present and will be used.
+[00000.014] isports.ini: com4 (PORT:4 TYPE:1 BAUD:0)
+[00000.014] Looking for IS-X00 device on port 4 (0.01)
+[00005.177] Failed to open \\.\COM4 (The semaphore timeout period has expired.)
+[00005.178]
+[00005.178] Looking for SDP devices (5.18)
+[00005.191] DEVWRN: Device config file not found: isradio.ini
+[00005.194] Opening port: com4 (S:1 N:21 DP:4 DT:1 RT:0)
+[00010.362] Failed to open \\.\COM4 (The semaphore timeout period has expired.)
+[00010.363] DEVWRN: SDP initialization failed
+[00010.364] DEVMSG: Failed to set device configuration
+[00010.365] ERROR: Interface initialization failed
+[00010.365]
+[00010.365] No SDP Deviced found (10.37)
+[00010.366]
+[00010.366] InterSense tracker not present
+[00010.367] Finished (10.37)
+[00026.947] Dll Unloaded, cleaning up.
